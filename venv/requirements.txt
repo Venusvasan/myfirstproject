@@ -1,0 +1,7 @@
+streamlit == 1.22.0
+pandas == 2.0.1
+google-api-python-client == 2.87.0
+pymongo == 4.3.3
+mysql-connector-python == 8.0.33
+isodate == 0.6.1
+sqlalchemy ==2.0.15
